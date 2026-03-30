@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "CVAE-BIO for AMP Discovery"
+message: "If you use this repository, please cite the associated Briefings in Bioinformatics article."
+type: software
+authors:
+  - family-names: Yang
+    given-names: Deliang
+  - family-names: Li
+    given-names: Yifan
+  - family-names: Li
+    given-names: Chenxi
+  - family-names: Zhang
+    given-names: Qingpeng
+  - family-names: Huang
+    given-names: Jiandong
+  - family-names: Li
+    given-names: Xue
+  - family-names: Gao
+    given-names: Peng
+preferred-citation:
+  type: article
+  title: "Biochemical-knowledge-driven machine learning pipeline for generating potent antimicrobial peptides"
+  journal: "Briefings in Bioinformatics"
+  year: 2026
+  volume: 27
+  article-number: bbag115
+  doi: 10.1093/bib/bbag115
+  authors:
+    - family-names: Yang
+      given-names: Deliang
+    - family-names: Li
+      given-names: Yifan
+    - family-names: Li
+      given-names: Chenxi
+    - family-names: Zhang
+      given-names: Qingpeng
+    - family-names: Huang
+      given-names: Jiandong
+    - family-names: Li
+      given-names: Xue
+    - family-names: Gao
+      given-names: Peng

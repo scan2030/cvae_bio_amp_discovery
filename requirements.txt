@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+tensorflow
+matplotlib
+scikit-learn
+peptides
+transformers
+umap-learn
+notebook
