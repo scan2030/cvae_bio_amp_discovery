@@ -10,7 +10,7 @@ This repository accompanies the study:
 - Module II: antimicrobial activity prediction with a Random Forest classifier trained on 30 biochemical descriptors
 - Module III: wet-lab validation of prioritized candidates
 
-This repository contains the computational code used for peptide generation and downstream biochemical-feature-based analysis. The current materials correspond most closely to Module I and parts of Module II of the published pipeline.
+This repository contains the computational code used for peptide generation and downstream biochemical-feature-based analysis.
 
 ## Citation
 
@@ -20,7 +20,7 @@ If you use this repository, please cite:
 
 ## Repository Contents
 
-- `notebooks/CVAE_BIO_module1_generator.ipynb`: main notebook for the CVAE-based peptide generation workflow.
+- `notebooks/CVAE_BIO_computational_pipeline.ipynb`: main notebook for the computational pipeline used in this study.
 - `src/features.py`: peptide property and descriptor helpers.
 - `src/preprocessing.py`: sequence encoding helpers.
 - `src/models.py`: autoencoder, VAE, and conditional VAE definitions.
@@ -34,7 +34,7 @@ If you use this repository, please cite:
 1. Create a Python environment.
 2. Install dependencies from `requirements.txt`.
 3. Place the processed APD-derived input table in the project data directory, or update the notebook path accordingly.
-4. Open and run `notebooks/CVAE_BIO_module1_generator.ipynb`.
+4. Open and run `notebooks/CVAE_BIO_computational_pipeline.ipynb`.
 
 ## Data
 
